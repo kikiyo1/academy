@@ -1,0 +1,1 @@
+export const mayarPaymentLink = "https://mayar.id/sisworo-74397";
